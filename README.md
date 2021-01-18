@@ -35,10 +35,8 @@
 
 #### 📈 GitHub Stats
 
-<div style="display: flex; align-items: flex-start">
-	<img style="margin-right: 10px" src="https://github-readme-stats.vercel.app/api?username=Skuth&show_icons=true&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&icon_color=5CFFFC">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skuth&layout=compact&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC">
-</div>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skuth&show_icons=true&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&icon_color=5CFFFC)
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Skuth&layout=compact&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC)
 
 #### 💻 This week, I spent my time on
 
