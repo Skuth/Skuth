@@ -19,7 +19,7 @@
 ![PHP7](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![Slim](https://img.shields.io/badge/-Slim-719E40?style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-404D59?style=flat-square)
+![Express](https://img.shields.io/badge/-Express.js-404D59?style=flat-square)
  
 - <b>Database:</b>
 ![MySql](https://img.shields.io/badge/-MYSQL-00000F?style=flat-square&logo=mysql&logoColor=ffffff)
