@@ -22,8 +22,8 @@
 ![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square)
  
 - <b>Database:</b>
-![MySql](https://img.shields.io/badge/-MYSQL-00000F?style=flat-square&logo=mysql&logoColor=ffffff)
-![Sqlite](https://img.shields.io/badge/-Sqlite3-07405E?style=flat-square&logo=sqlite&logoColor=ffffff)
+![MySql](https://img.shields.io/badge/-MySql-00000F?style=flat-square&logo=mysql&logoColor=ffffff)
+![Sqlite](https://img.shields.io/badge/-SQLite3-07405E?style=flat-square&logo=sqlite&logoColor=ffffff)
  
 - <b>Mobile:</b>
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
