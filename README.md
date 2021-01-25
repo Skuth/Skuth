@@ -40,7 +40,7 @@
 
 #### 💻 This week, I spent my time on
 
-![Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skuth&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC)
+![Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skuth&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&layout=compact)
 
 #### Find me
 
