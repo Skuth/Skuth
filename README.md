@@ -3,7 +3,7 @@
 #### 📖 About
 
 - 🏠 Living in <b>Salto de Pirapora, SP</b> - Brazil
-- 🌱  I’m currently learning <b>Vue.js</b>
+- 🌱  I’m currently learning <b>React.js</b> & <b>React Native</b>
 
 #### 👨‍💻 Stack
 
