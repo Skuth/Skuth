@@ -20,7 +20,7 @@
 ![Slim](https://img.shields.io/badge/-Slim-719E40?style=flat-square)
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square)
-![Adonis.js](https://img.shields.io/badge/-ADONIS-5A45FF?style=flat-square&logo=adonisjs&logoColor=ffffff)
+![Adonis.js](https://img.shields.io/badge/-Adonis.js-5A45FF?style=flat-square&logo=adonisjs&logoColor=ffffff)
  
 - <b>Database:</b>
 ![MySql](https://img.shields.io/badge/-MySql-00000F?style=flat-square&logo=mysql&logoColor=ffffff)
