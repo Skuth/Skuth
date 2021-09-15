@@ -3,7 +3,7 @@
 #### 📖 About
 
 - 🏠 Living in <b>Salto de Pirapora, SP</b> - Brazil
-- 🌱  I’m currently learning <b>Nuxt.js</b> & <b>Laravel</b>
+- 🌱  I’m currently learning <b>Nuxt.js</b> & <b>Adonis.js</b>
 
 #### 👨‍💻 Stack
 
