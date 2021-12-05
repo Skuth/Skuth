@@ -1,4 +1,4 @@
-## Flávio Gomes (Skuth), 21y - Full Stack Developer
+## Flávio Gomes (Skuth), 22y - Full Stack Developer
 
 #### 📖 About
 
