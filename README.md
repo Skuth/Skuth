@@ -3,7 +3,7 @@
 #### 📖 About
 
 - 🏠 Living in <b>Sorocaba, SP</b> - Brazil
-- 🌱  I’m currently learning <b>Nuxt.js</b> & <b>Adonis.js</b>
+- 🌱  I’m currently learning <b>Next.js</b> & <b>Adonis.js</b>
 
 #### 👨‍💻 Stack
 
