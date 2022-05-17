@@ -49,5 +49,4 @@
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/243465385616211978)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skuth/)
-[![Gmail](	https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:the.skuth@gmail.com)
 [![CodePen](	https://img.shields.io/badge/CodePen-131417?style=for-the-badge)](https://codepen.io/skuth)
