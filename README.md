@@ -40,7 +40,7 @@
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
 ![Railway](https://img.shields.io/badge/-Railway-100f13?style=flat-square&logo=railway&color=100f13)
 ![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/-Azure-0074cb?style=flat-square&logo=microsoft-azure&color=0074cb)
+![Microsoft Azure](https://img.shields.io/badge/-Microsoft Azure-0074cb?style=flat-square&logo=microsoft-azure&color=0074cb)
 
 #### 📈 GitHub Stats
 
