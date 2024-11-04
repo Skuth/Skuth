@@ -1,3 +1,4 @@
+
 ## Flávio Gomes (Skuth), 24y - Full Stack Developer
 
 #### 📖 About
@@ -17,7 +18,7 @@
 ![Next.js](https://img.shields.io/badge/-Next.js-1e262c?style=flat-square&logo=next.js&color=1e262c)
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-2f4a5f?style=flat-square&logo=nuxt.js&color=2f4a5f)
- 
+ 
 - <b>Back-end:</b>
 ![PHP7](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
 ![Slim](https://img.shields.io/badge/-Slim-719E40?style=flat-square)
@@ -25,16 +26,16 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-404D59?style=flat-square)
 ![Adonis.js](https://img.shields.io/badge/-Adonis.js-5A45FF?style=flat-square&logo=adonisjs&logoColor=ffffff)
- 
+ 
 - <b>Database:</b>
 ![MySql](https://img.shields.io/badge/-MySql-00000F?style=flat-square&logo=mysql&logoColor=ffffff)
 ![Sqlite](https://img.shields.io/badge/-SQLite3-07405E?style=flat-square&logo=sqlite&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-001e2b?style=flat-square&logo=mongodb&color=001e2b)
 ![Redis](https://img.shields.io/badge/-Redis-1a192e?style=flat-square&logo=redis&color=1a192e)
- 
+ 
 - <b>Mobile:</b>
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
- 
+ 
 - <b>Server:</b>
 ![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square)
 ![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
@@ -47,6 +48,10 @@
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=Skuth&show_icons=true&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&icon_color=5CFFFC" height="180em" alt="GitHub Stat">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skuth&layout=compact&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC" height="180em" alt="Most Used Languages">
+</div>
+
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skuth&theme=dark&hide_border=true" width="100%" height="250em" alt="Total Contributions" >
 </div>
 
 #### 💻 This week, I spent my time on
