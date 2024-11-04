@@ -51,7 +51,7 @@
 </div>
 
 <div>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skuth&theme=dark&hide_border=true" width="100%" height="250em" alt="Total Contributions" >
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skuth&theme=dark&hide_border=true&background=212121" height="250em" alt="Total Contributions" >
 </div>
 
 #### 💻 This week, I spent my time on
