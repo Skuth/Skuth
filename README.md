@@ -54,10 +54,6 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skuth&theme=dark&hide_border=true&background=212121" height="180em" alt="Total Contributions" >
 </div>
 
-#### 💻 This week, I spent my time on
-
-![Week Stats](https://github-readme-stats.vercel.app/api/wakatime?username=Skuth&hide_border=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&layout=compact)
-
 #### Find me
 
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/243465385616211978)
