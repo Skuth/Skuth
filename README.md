@@ -1,10 +1,10 @@
 
-## Flávio Gomes (Skuth), 24y - Full Stack Developer
+## Flávio Gomes (Skuth), 25y - Full Stack Developer
 
 #### 📖 About
 
 - 🏠 Living in <b>Sorocaba, SP</b> - Brazil
-- 🌱  I’m currently learning <b>Next.js</b>, <b>Adonis.js</b> & <b>Rust</b>
+- 🌱  I’m currently learning <b>Next.js</b>, <b>Adonis.js</b> & <b>Java</b>
 
 #### 👨‍💻 Stack
 
