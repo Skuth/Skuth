@@ -4,7 +4,7 @@
 #### 📖 About
 
 - 🏠 Living in <b>Sorocaba, SP</b> - Brazil
-- 🌱  I’m currently learning <b>Next.js</b>, <b>Adonis.js</b> & <b>Java</b>
+- 🌱  I’m currently learning <b>Next.js</b>, <b>Adonis.js</b> & <b>Java (Spring Boot)</b>
 
 #### 👨‍💻 Stack
 
