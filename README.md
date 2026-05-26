@@ -17,12 +17,9 @@
 ![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logoColor=white)
 ![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
 ![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
-![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
 ![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
 ![RAG](https://img.shields.io/badge/-RAG-FF6B6B?style=flat-square&logoColor=white)
 ![Function Calling](https://img.shields.io/badge/-Function_Calling-00A86B?style=flat-square&logoColor=white)
-![MCP](https://img.shields.io/badge/-MCP-D97757?style=flat-square&logoColor=white)
 ![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-7C3AED?style=flat-square&logoColor=white)
 
 <table>
