@@ -4,10 +4,26 @@
 
 - 🏠 Living in <b>Sorocaba, SP</b> - Brazil
 - 💼 <b>CTO & Co-Founder @ Burh</b>
-- 🌱 I'm currently deepening expertise in <b>React Native performance</b>, <b>Clean Architecture</b> & learning <b>Russian (A1)</b>
+- 🤖 Building <b>AI-powered features</b> with LLM integrations (OpenAI, Anthropic, DeepSeek), <b>RAG</b>, function calling & structured outputs
+- 🌱 Currently deepening expertise in <b>React Native performance</b>, <b>Clean Architecture</b> & learning <b>Russian (A1)</b>
 - 🌎 Open to remote international roles
 
 #### 👨‍💻 Stack
+
+<b>🤖 AI & LLMs</b>
+
+![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/-Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
+![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Ollama](https://img.shields.io/badge/-Ollama-000000?style=flat-square&logo=ollama&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![RAG](https://img.shields.io/badge/-RAG-FF6B6B?style=flat-square&logoColor=white)
+![Function Calling](https://img.shields.io/badge/-Function_Calling-00A86B?style=flat-square&logoColor=white)
+![MCP](https://img.shields.io/badge/-MCP-D97757?style=flat-square&logoColor=white)
+![Prompt Engineering](https://img.shields.io/badge/-Prompt_Engineering-7C3AED?style=flat-square&logoColor=white)
 
 <table>
 <tr>
@@ -65,6 +81,7 @@
 ![SQLite](https://img.shields.io/badge/-SQLite3-07405E?style=flat-square&logo=sqlite&logoColor=ffffff)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-001e2b?style=flat-square&logo=mongodb&color=001e2b)
 ![Redis](https://img.shields.io/badge/-Redis-1a192e?style=flat-square&logo=redis&color=1a192e)
+![pgvector](https://img.shields.io/badge/-pgvector-336791?style=flat-square&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
