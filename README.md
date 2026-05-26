@@ -1,10 +1,11 @@
-
-## Flávio Gomes (Skuth), 26y - Full Stack Developer
+## Flávio Gomes (Skuth), 26y - Senior Software Engineer
 
 #### 📖 About
 
 - 🏠 Living in <b>Sorocaba, SP</b> - Brazil
-- 🌱  I’m currently learning <b>Next.js</b>, <b>Adonis.js</b> & <b>Java (Spring Boot)</b>
+- 💼 <b>CTO & Co-Founder @ Burh</b> · <b>Senior Software Engineer @ ForgoTech</b>
+- 🌱 I'm currently deepening expertise in <b>React Native performance</b>, <b>Clean Architecture</b> & learning <b>Russian (A1)</b>
+- 🌎 Open to remote international roles
 
 #### 👨‍💻 Stack
 
@@ -12,6 +13,7 @@
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&color=FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-Typescript-2f74c0?style=flat-square&logo=typescript&logoColor=ffffff&color=2f74c0)
 ![React.js](https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react)
@@ -19,7 +21,9 @@
 ![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=Vue.js)
 ![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-2f4a5f?style=flat-square&logo=nuxt.js&color=2f4a5f)
 ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Zustand](https://img.shields.io/badge/-Zustand-433e38?style=flat-square&color=433e38)
 ![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
+![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 ![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
  
 - <b>Back-end:</b>
@@ -41,6 +45,7 @@
  
 - <b>Mobile:</b>
 ![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
  
 - <b>DevOps & Cloud:</b>
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
