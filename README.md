@@ -3,7 +3,7 @@
 #### 📖 About
 
 - 🏠 Living in <b>Sorocaba, SP</b> - Brazil
-- 💼 <b>CTO & Co-Founder @ Burh</b> · <b>Senior Software Engineer @ ForgoTech</b>
+- 💼 <b>CTO & Co-Founder @ Burh</b>
 - 🌱 I'm currently deepening expertise in <b>React Native performance</b>, <b>Clean Architecture</b> & learning <b>Russian (A1)</b>
 - 🌎 Open to remote international roles
 
