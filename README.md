@@ -71,16 +71,12 @@
 #### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Skuth&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&icon_color=5CFFFC" height="170em" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Skuth&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&icon_color=5CFFFC" height="170em" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=skuth&theme=dark&hide_border=true&background=212121&stroke=5CFFFC&ring=5CFFFC&fire=5CFFFC&currStreakLabel=5CFFFC&sideLabels=f4f5f6&dates=f4f5f6" height="170em" alt="GitHub Streak" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Skuth&layout=compact&hide_border=true&langs_count=10&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC" alt="Top Languages" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Skuth&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Skuth&layout=compact&hide_border=true&langs_count=10&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC" alt="Top Languages" />
 </div>
 
 <div align="center">
