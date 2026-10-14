@@ -1,187 +1,118 @@
-## Flávio Gomes (Skuth), 26y - Senior Software Engineer
+# Flávio Gomes
 
-#### 📖 About
+**CEO at [Avos](https://useavos.app)** · **CTO & Co-Founder at [Burh](https://burh.com.br)** · Senior Software Engineer · Sorocaba, Brazil
 
-- 🏠 Living in <b>Sorocaba, SP</b> - Brazil
-- 💼 <b>CTO & Co-Founder @ Burh</b>
-- 🤖 Building <b>AI-powered features</b> with LLM integrations (OpenAI, Anthropic, DeepSeek), <b>RAG</b>, function calling & structured outputs
-- 🌱 Currently deepening expertise in <b>React Native performance</b>, <b>Clean Architecture</b> & learning <b>Russian (A1)</b>
-- 🌎 Open to remote international roles
+<a href="https://www.linkedin.com/in/skuth/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:contact@skuth.me"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-161B22?style=for-the-badge" alt="Email" /></a>
+<a href="https://discord.com/users/243465385616211978"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
+<a href="https://codepen.io/skuth"><img src="https://img.shields.io/badge/CodePen-161B22?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
+<a href="https://github.com/Skuth"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
-#### 👨‍💻 Stack
+Senior Software Engineer with 10+ years of experience across full-stack and mobile, with a focus on performance, software architecture and cloud cost. I'm the CEO of [Avos](https://useavos.app) and CTO & Co-Founder of [Burh](https://burh.com.br), an HR tech platform serving 2M+ users, where I rebuilt the core products on my own with performance as the priority, cut cloud costs by ~85% and drove SEO.
 
-<b>🤖 AI & LLMs</b>
+Most of my work today is in generative AI: building products on top of LLMs from OpenAI, Anthropic and DeepSeek, with RAG over pgvector, function calling and structured outputs. On the growth side I work with SEO and GEO (Generative Engine Optimization), making products discoverable both in search engines and in AI answers. Claude Code is part of my daily workflow.
 
-![OpenAI](https://img.shields.io/badge/-OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
-![Anthropic Claude](https://img.shields.io/badge/-Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
-![DeepSeek](https://img.shields.io/badge/-DeepSeek-4D6BFE?style=flat-square&logo=deepseek&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/-Gemini-8E75B2?style=flat-square&logo=googlegemini&logoColor=white)
-![Vercel AI SDK](https://img.shields.io/badge/-Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/-Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
-![RAG](https://img.shields.io/badge/🔍_RAG-FF6B6B?style=flat-square&logoColor=white)
-![Function Calling](https://img.shields.io/badge/⚡_Function_Calling-00A86B?style=flat-square&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/💬_Prompt_Engineering-7C3AED?style=flat-square&logoColor=white)
+Open to remote international roles.
 
-<table>
-<tr>
-<td valign="top" width="33%">
+<img src="https://img.shields.io/badge/Generative_AI-1F6FEB?style=flat-square" alt="Generative AI" /> <img src="https://img.shields.io/badge/LLMs-1F6FEB?style=flat-square" alt="LLMs" /> <img src="https://img.shields.io/badge/RAG-1F6FEB?style=flat-square" alt="RAG" /> <img src="https://img.shields.io/badge/pgvector-1F6FEB?style=flat-square" alt="pgvector" /> <img src="https://img.shields.io/badge/Function_Calling-1F6FEB?style=flat-square" alt="Function Calling" /> <img src="https://img.shields.io/badge/Structured_Outputs-1F6FEB?style=flat-square" alt="Structured Outputs" /> <img src="https://img.shields.io/badge/Prompt_Engineering-1F6FEB?style=flat-square" alt="Prompt Engineering" /> <img src="https://img.shields.io/badge/SEO-1F6FEB?style=flat-square" alt="SEO" /> <img src="https://img.shields.io/badge/GEO-1F6FEB?style=flat-square" alt="GEO" />
 
-**🎨 Front-end**
+<img src="https://img.shields.io/badge/Performance_Optimization-238636?style=flat-square" alt="Performance Optimization" /> <img src="https://img.shields.io/badge/Clean_Architecture-238636?style=flat-square" alt="Clean Architecture" /> <img src="https://img.shields.io/badge/SOLID-238636?style=flat-square" alt="SOLID" /> <img src="https://img.shields.io/badge/DDD-238636?style=flat-square" alt="DDD" /> <img src="https://img.shields.io/badge/System_Design-238636?style=flat-square" alt="System Design" /> <img src="https://img.shields.io/badge/Cloud_Cost_Optimization-238636?style=flat-square" alt="Cloud Cost Optimization" /> <img src="https://img.shields.io/badge/Offline--First-238636?style=flat-square" alt="Offline--First" /> <img src="https://img.shields.io/badge/WCAG-238636?style=flat-square" alt="WCAG" /> <img src="https://img.shields.io/badge/Technical_Leadership-238636?style=flat-square" alt="Technical Leadership" />
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&color=FFCE5A)
-![TypeScript](https://img.shields.io/badge/-Typescript-2f74c0?style=flat-square&logo=typescript&logoColor=ffffff&color=2f74c0)
-![React.js](https://img.shields.io/badge/-React.js-20232A?style=flat-square&logo=react)
-![Next.js](https://img.shields.io/badge/-Next.js-1e262c?style=flat-square&logo=next.js&color=1e262c)
-![Vue.js](https://img.shields.io/badge/-Vue.js-35495E?style=flat-square&logo=Vue.js)
-![Nuxt.js](https://img.shields.io/badge/-Nuxt.js-2f4a5f?style=flat-square&logo=nuxt.js&color=2f4a5f)
-![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
-![Zustand](https://img.shields.io/badge/-Zustand-433e38?style=flat-square&color=433e38)
-![Material UI](https://img.shields.io/badge/-Material_UI-0081CB?style=flat-square&logo=material-ui&logoColor=white)
-![Vite](https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
-![Webpack](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+<br/>
 
-</td>
-<td valign="top" width="33%">
+## Impact
 
-**⚙️ Back-end**
+<div align="center">
 
-![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=ffffff)
-![Slim](https://img.shields.io/badge/🐍_Slim-719E40?style=flat-square&logoColor=white)
-![Laravel](https://img.shields.io/badge/-Laravel-1a202c?style=flat-square&logo=laravel&color=1a202c)
-![Node.js](https://img.shields.io/badge/-Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
-![Express](https://img.shields.io/badge/⚡_Express-404D59?style=flat-square&logoColor=white)
-![Adonis.js](https://img.shields.io/badge/-Adonis.js-5A45FF?style=flat-square&logo=adonisjs&logoColor=ffffff)
-![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+| **2M+** | **~85%** | **99.9%** | **< 200ms** |
+|:--:|:--:|:--:|:--:|
+| users served at Burh | cloud cost cut<br/><sub>$4,000 → ~$600 / month</sub> | uptime | API response time |
 
-</td>
-<td valign="top" width="33%">
-
-**📱 Mobile**
-
-![React Native](https://img.shields.io/badge/-React_Native-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Expo](https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white)
-
-</td>
-</tr>
-<tr>
-<td valign="top" width="33%">
-
-**🗃️ Database**
-
-![MySQL](https://img.shields.io/badge/-MySQL-00000F?style=flat-square&logo=mysql&logoColor=ffffff)
-![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite3-07405E?style=flat-square&logo=sqlite&logoColor=ffffff)
-![MongoDB](https://img.shields.io/badge/-MongoDB-001e2b?style=flat-square&logo=mongodb&color=001e2b)
-![Redis](https://img.shields.io/badge/-Redis-1a192e?style=flat-square&logo=redis&color=1a192e)
-![pgvector](https://img.shields.io/badge/🧬_pgvector-336791?style=flat-square&logoColor=white)
-
-</td>
-<td valign="top" width="33%">
-
-**☁️ DevOps & Cloud**
-
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Nginx](https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white)
-![PM2](https://img.shields.io/badge/-PM2-2B037A?style=flat-square&logo=pm2&logoColor=white)
-![Linux](https://img.shields.io/badge/-Linux-87CF3E?style=flat-square&logo=linux&logoColor=black)
-![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
-![Heroku](https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku&logoColor=white)
-![Railway](https://img.shields.io/badge/-Railway-100f13?style=flat-square&logo=railway&color=100f13)
-![Google Cloud Platform](https://img.shields.io/badge/-Google_Cloud-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Microsoft Azure](https://img.shields.io/badge/-Microsoft%20Azure-0074cb?style=flat-square&logo=microsoft-azure&color=0074cb)
-
-</td>
-<td valign="top" width="33%">
-
-**🛠️ Tools**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-**🛠️ Tools**
-
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![Jira](https://img.shields.io/badge/-Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-#### 📈 GitHub Stats
-
-<div>
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Skuth&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC&icon_color=5CFFFC" height="180em" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=skuth&theme=dark&hide_border=true&background=212121&stroke=5CFFFC&ring=5CFFFC&fire=5CFFFC&currStreakLabel=5CFFFC&sideLabels=f4f5f6&dates=f4f5f6" height="180em" alt="GitHub Streak" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Skuth&layout=compact&hide_border=true&langs_count=10&bg_color=212121&text_color=f4f5f6&title_color=5CFFFC" height="180em" alt="Top Languages" />
 </div>
 
-<div>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Skuth&theme=react-dark&bg_color=212121&color=5CFFFC&line=5CFFFC&point=ffffff&hide_border=true&area=true&custom_title=Contribution%20Activity" alt="Activity Graph" />
-</div>
+<br/>
 
-#### Find me
+## Experience
 
-[![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com/users/243465385616211978)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skuth/)
-[![CodePen](	https://img.shields.io/badge/CodePen-131417?style=for-the-badge)](https://codepen.io/skuth)
+**CEO** · [Avos](https://useavos.app)
 
-                                  .,***********,.                               
-                              ,*,*,***********//////,                           
-                           ,********/%@@@@@@@@(///////.                         
-                        /%%%#((/***&%/##%@@@@@%*@#//((/     ..                  
-                      .*****/(#&&@@&#(//%@@@&&@@*(@@@&&&&/,*/@@@(               
-                    ,*,,,*******/(%&%%%%%%%%%%%%%%@&%@@@&@@@@&@%(               
-                  ,****************&&%%%%%%%%%%%&%%%&&@@@%%%%%%%%.               
-                 ,///****/***********%@@@@@@@@%#(((#%&@@&%%%%%%/                
-                 ,/*//////*************/(#(/////((((((#%@@%&&%*                 
-                  ,///((///*************///****/((///(/////.                    
-                    ,/(((///***********/////***///////(((/*                     
-                       ////**********//////**//////////////,                    
-                         *//(****/////////*//////////////////                   
-                          ,**///((((///****///////////////////*.                
-                            .///////((//*********,,,,,*********///*.            
-                               */////((##((###((((((((((((/(/////////,          
-                                 *////(((######(//(((((((((((((((((/.           
-                                  *///((#####(                                  
-                      ,*,          ****/((##(                                   
-                     ,*//           ***//((((.                                  
-                    **///           ./**//(((,                                  
-                  ,**/((*            *****/((/                                  
-                 ****////           ,/*****/((,                                 
-                ***//#%#(( .*/*    .///****//((,                                
-                ////////((##((####%&#///****///(*                               
-                *//////(#######(/%%#((//****////(/                              
-                   .     .****/(###(((///****/////(((                           
-                         ,***/(((((((///*****////////(/                         
-                         ***///(((((////*****////*//////                        
-                        .***///////////*******////*/////.                       
-                        **********************//////////*                       
-                        ***********************/////////*                       
-                        ,**********/////////////////////                        
-                         *//////////////////////////(/                          
-                          /(##((((((((((((((((((((*                             
-                          /(#                %/                                 
-                          /(              .,%%*......,,,,,,,,,,,.....           
-                  .......*/*#,,,,,,,,,,,,,*##%%%%/**************,,,,,..         
-                  ......,//((((###(/////((###############(//******,,,..         
-                     ....,/(///////((((((//(#(((((////(((/****,,,,,,..          
-                          ***********/(/,,.........,,.............
+**CTO & Co-Founder** · [Burh](https://burh.com.br) — HR tech platform · <sub>Jan 2020 – Present</sub>
+
+- Rebuilt Burh's core products from scratch on my own, including the candidate-facing job application platform, with performance as the main goal and SOLID / Clean Architecture underneath
+- Cut monthly cloud spend from ~$4,000 to ~$600 (~85%) through service re-architecture, workload consolidation, container right-sizing, caching and a provider migration, keeping 99.9% uptime and sub-200ms APIs for 2M+ users
+- Drove SEO across the platform
+- Leading the rebuild of the iOS and Android app with React Native and Expo
+- Built GitHub Actions pipelines for code quality and optimization, including build checks and an automated pre-code review before human review
+- Integrated with Indeed, LinkedIn and several other ATS and job platforms
+
+<br/>
+
+## Stack
+
+| | |
+|:--|:--|
+| **AI** | <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/claude-dark.svg" width="36" alt="Claude" title="Claude" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/chatgpt-dark.svg" width="36" alt="OpenAI" title="OpenAI" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/deepseek-dark.svg" width="36" alt="DeepSeek" title="DeepSeek" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/gemini-dark.svg" width="36" alt="Gemini" title="Gemini" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/vercel-dark.svg" width="36" alt="Vercel AI SDK" title="Vercel AI SDK" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/huggingface-dark.svg" width="36" alt="Hugging Face" title="Hugging Face" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/mcp-dark.svg" width="36" alt="MCP" title="MCP" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/cursor-dark.svg" width="36" alt="Cursor" title="Cursor" /> |
+| **Front-end** | <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/typescript.svg" width="36" alt="TypeScript" title="TypeScript" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/javascript.svg" width="36" alt="JavaScript" title="JavaScript" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/react-dark.svg" width="36" alt="React" title="React" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/nextjs-dark.svg" width="36" alt="Next.js" title="Next.js" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/vuejs-dark.svg" width="36" alt="Vue" title="Vue" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/nuxtjs-dark.svg" width="36" alt="Nuxt" title="Nuxt" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/tailwindcss-dark.svg" width="36" alt="Tailwind CSS" title="Tailwind CSS" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/sass.svg" width="36" alt="Sass" title="Sass" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/redux.svg" width="36" alt="Redux" title="Redux" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/zustand-dark.svg" width="36" alt="Zustand" title="Zustand" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/materialui-dark.svg" width="36" alt="Material UI" title="Material UI" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/vite-dark.svg" width="36" alt="Vite" title="Vite" /> |
+| **Mobile** | <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/reactnative-dark.svg" width="36" alt="React Native" title="React Native" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/expo-dark.svg" width="36" alt="Expo" title="Expo" /> |
+| **Back-end** | <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/nodejs-dark.svg" width="36" alt="Node.js" title="Node.js" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/nestjs-dark.svg" width="36" alt="NestJS" title="NestJS" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/expressjs-dark.svg" width="36" alt="Express" title="Express" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/adonis.svg" width="36" alt="AdonisJS" title="AdonisJS" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/graphql-dark.svg" width="36" alt="GraphQL" title="GraphQL" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/php-dark.svg" width="36" alt="PHP" title="PHP" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/laravel-dark.svg" width="36" alt="Laravel" title="Laravel" /> |
+| **Data** | <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postgresql-dark.svg" width="36" alt="PostgreSQL" title="PostgreSQL" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/mysql-dark.svg" width="36" alt="MySQL" title="MySQL" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/sqlite.svg" width="36" alt="SQLite" title="SQLite" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/mongodb.svg" width="36" alt="MongoDB" title="MongoDB" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/redis-dark.svg" width="36" alt="Redis" title="Redis" /> |
+| **Infra** | <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/docker.svg" width="36" alt="Docker" title="Docker" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/kubernetes.svg" width="36" alt="Kubernetes" title="Kubernetes" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/githubactions-dark.svg" width="36" alt="GitHub Actions" title="GitHub Actions" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/nginx.svg" width="36" alt="Nginx" title="Nginx" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/pm2-dark.svg" width="36" alt="PM2" title="PM2" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/linux-dark.svg" width="36" alt="Linux" title="Linux" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/cloudflare-dark.svg" width="36" alt="Cloudflare" title="Cloudflare" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/gcp-dark.svg" width="36" alt="Google Cloud" title="Google Cloud" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/azure-dark.svg" width="36" alt="Azure" title="Azure" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/railway-dark.svg" width="36" alt="Railway" title="Railway" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/heroku.svg" width="36" alt="Heroku" title="Heroku" /> |
+| **Tools** | <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/git-dark.svg" width="36" alt="Git" title="Git" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/github-dark.svg" width="36" alt="GitHub" title="GitHub" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/vscode-dark.svg" width="36" alt="VS Code" title="VS Code" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/postman.svg" width="36" alt="Postman" title="Postman" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/figma-dark.svg" width="36" alt="Figma" title="Figma" /> <img src="https://cdn.jsdelivr.net/gh/LelouchFR/skill-icons@5401d691a2268d5a3ee6c3b3163c31b6a2a0be6d/assets/jira-dark.svg" width="36" alt="Jira" title="Jira" /> |
+
+<br/>
+
+<br/>
+
+## Activity
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Skuth&theme=github_dark" width="100%" alt="GitHub profile details" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Skuth&theme=github_dark" width="49%" alt="GitHub stats" /> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Skuth&theme=github_dark" width="49%" alt="Top languages by commit" />
+
+<br/>
+
+<br/>
+
+```text
+                  .,***********,.
+              ,*,*,***********//////,
+           ,********/%@@@@@@@@(///////.
+        /%%%#((/***&%/##%@@@@@%*@#//((/     ..
+      .*****/(#&&@@&#(//%@@@&&@@*(@@@&&&&/,*/@@@(
+    ,*,,,*******/(%&%%%%%%%%%%%%%%@&%@@@&@@@@&@%(
+  ,****************&&%%%%%%%%%%%&%%%&&@@@%%%%%%%%.
+ ,///****/***********%@@@@@@@@%#(((#%&@@&%%%%%%/
+ ,/*//////*************/(#(/////((((((#%@@%&&%*
+  ,///((///*************///****/((///(/////.
+    ,/(((///***********/////***///////(((/*               skuth@github
+       ////**********//////**//////////////,              ------------
+         *//(****/////////*//////////////////             Name:        Flávio Gomes
+          ,**///((((///****///////////////////*.          Role:        CEO @ Avos (useavos.app)
+            .///////((//*********,,,,,*********///*.                   CTO & Co-Founder @ Burh (burh.com.br)
+               */////((##((###((((((((((((/(/////////,    Title:       Senior Software Engineer
+                 *////(((######(//(((((((((((((((((/.     Experience:  10+ years
+                  *///((#####(                            Location:    Sorocaba, SP — Brazil
+      ,*,          ****/((##(                             Languages:   TypeScript, JavaScript, PHP, SQL
+     ,*//           ***//((((.                            Front-end:   React, Next.js, Vue, Nuxt
+    **///           ./**//(((,                            Mobile:      React Native, Expo
+  ,**/((*            *****/((/                            Back-end:    Node.js, NestJS, Laravel
+ ****////           ,/*****/((,                           Data:        PostgreSQL, pgvector, Redis
+***//#%#(( .*/*    .///****//((,                          AI:          Generative AI, LLMs
+////////((##((####%&#///****///(*                         Models:      OpenAI, Anthropic, DeepSeek
+*//////(#######(/%%#((//****////(/                        Workflow:    Claude Code
+   .     .****/(###(((///****/////(((                     Growth:      SEO, GEO
+         ,***/(((((((///*****////////(/                   Impact:      2M+ users, ~85% cloud cost cut
+         ***///(((((////*****////*//////                  Spoken:      Portuguese, English, Russian (A1)
+        .***///////////*******////*/////.                 Status:      open to remote roles
+        **********************//////////*
+        ***********************/////////*
+        ,**********/////////////////////
+         *//////////////////////////(/
+          /(##((((((((((((((((((((*
+          /(#                %/
+          /(              .,%%*......,,,,,,,,,,,.....
+  .......*/*#,,,,,,,,,,,,,*##%%%%/**************,,,,,..
+  ......,//((((###(/////((###############(//******,,,..
+     ....,/(///////((((((//(#(((((////(((/****,,,,,,..
+          ***********/(/,,.........,,.............
+```
