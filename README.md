@@ -90,46 +90,4 @@ Open to remote international roles.
 
 <br/>
 
-```text
-                  .,***********,.
-              ,*,*,***********//////,
-           ,********/%@@@@@@@@(///////.
-        /%%%#((/***&%/##%@@@@@%*@#//((/     ..
-      .*****/(#&&@@&#(//%@@@&&@@*(@@@&&&&/,*/@@@(
-    ,*,,,*******/(%&%%%%%%%%%%%%%%@&%@@@&@@@@&@%(
-  ,****************&&%%%%%%%%%%%&%%%&&@@@%%%%%%%%.
- ,///****/***********%@@@@@@@@%#(((#%&@@&%%%%%%/
- ,/*//////*************/(#(/////((((((#%@@%&&%*
-  ,///((///*************///****/((///(/////.
-    ,/(((///***********/////***///////(((/*               skuth@github
-       ////**********//////**//////////////,              ------------
-         *//(****/////////*//////////////////             Name:        Flávio Gomes
-          ,**///((((///****///////////////////*.          Role:        CEO @ Avos (useavos.app)
-            .///////((//*********,,,,,*********///*.                   CTO & Co-Founder @ Burh (burh.com.br)
-               */////((##((###((((((((((((/(/////////,    Title:       Senior Software Engineer
-                 *////(((######(//(((((((((((((((((/.     Experience:  10+ years
-                  *///((#####(                            Location:    Sorocaba, SP — Brazil
-      ,*,          ****/((##(                             Languages:   TypeScript, JavaScript, PHP, C#, Go, Rust, Python, SQL
-     ,*//           ***//((((.                            Front-end:   React, Next.js, Vue, Nuxt, Tailwind
-    **///           ./**//(((,                            Mobile:      React Native, Expo
-  ,**/((*            *****/((/                            Back-end:    Node.js, NestJS, AdonisJS, Laravel, .NET, Go
- ****////           ,/*****/((,                           Data:        PostgreSQL, MySQL, MongoDB, Redis, Typesense
-***//#%#(( .*/*    .///****//((,                          Messaging:   BullMQ, SignalR
-////////((##((####%&#///****///(*                         Infra:       Kubernetes, Terraform, Helm, Docker
-*//////(#######(/%%#((//****////(/                        Observ.:     Grafana, Loki, Prometheus, OpenTelemetry
-   .     .****/(###(((///****/////(((                     AI:          Generative AI, LLMs, MCP
-         ,***/(((((((///*****////////(/                   Models:      OpenAI, Anthropic, DeepSeek, Gemini
-         ***///(((((////*****////*//////                  Workflow:    Claude Code
-        .***///////////*******////*/////.                 Growth:      SEO, GEO
-        **********************//////////*                 Impact:      2M+ users, ~85% cloud cost cut
-        ***********************/////////*                 Spoken:      Portuguese, English, Russian (A1)
-        ,**********/////////////////////                  Status:      open to remote roles
-         *//////////////////////////(/
-          /(##((((((((((((((((((((*
-          /(#                %/
-          /(              .,%%*......,,,,,,,,,,,.....
-  .......*/*#,,,,,,,,,,,,,*##%%%%/**************,,,,,..
-  ......,//((((###(/////((###############(//******,,,..
-     ....,/(///////((((((//(#(((((////(((/****,,,,,,..
-          ***********/(/,,.........,,.............
-```
+<img src="skuth-neofetch.svg" width="100%" alt="skuth@github: Flávio Gomes, CEO @ Avos, CTO & Co-Founder @ Burh, Senior Software Engineer, 10+ years, Sorocaba, Brazil, open to remote roles" />
