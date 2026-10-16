@@ -6,7 +6,6 @@
 <a href="mailto:contact@skuth.me"><img src="https://img.shields.io/badge/%E2%9C%89%EF%B8%8F_Email-161B22?style=for-the-badge" alt="Email" /></a>
 <a href="https://discord.com/users/243465385616211978"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
 <a href="https://codepen.io/skuth"><img src="https://img.shields.io/badge/CodePen-161B22?style=for-the-badge&logo=codepen&logoColor=white" alt="CodePen" /></a>
-<a href="https://github.com/Skuth"><img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 
 Senior Software Engineer with 10+ years of experience across full-stack and mobile, with a focus on performance, software architecture and cloud cost. I'm the CEO of [Avos](https://useavos.app), a multi-country payroll platform built as an event-driven monorepo running on Kubernetes, and CTO & Co-Founder of [Burh](https://burh.com.br), an HR tech platform serving 2M+ users, where I rebuilt the core products on my own with performance as the priority, cut cloud costs by ~85% and drove SEO.
 
