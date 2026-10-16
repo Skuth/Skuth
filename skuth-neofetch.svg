@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1098" height="786" viewBox="0 0 1098 786" xml:space="preserve">
+<defs><linearGradient id="g" gradientUnits="userSpaceOnUse" x1="0" y1="0" x2="0" y2="786"><stop offset="0" stop-color="#58a6ff"/><stop offset="1" stop-color="#3fb950"/></linearGradient></defs>
+<style>text{font:14px ui-monospace,SFMono-Regular,Consolas,'Liberation Mono',Menlo,monospace;fill:#e6edf3;white-space:pre}.k{fill:#58a6ff;font-weight:700}.u{fill:#3fb950;font-weight:700}.d{fill:#484f58}</style>
+<rect width="100%" height="100%" rx="12" fill="#0d1117"/>
+<text x="24" y="38"><tspan fill="url(#g)">                  .,***********,.</tspan></text>
+<text x="24" y="56"><tspan fill="url(#g)">              ,*,*,***********//////,</tspan></text>
+<text x="24" y="74"><tspan fill="url(#g)">           ,********/%@@@@@@@@(///////.</tspan></text>
+<text x="24" y="92"><tspan fill="url(#g)">        /%%%#((/***&amp;%/##%@@@@@%*@#//((/     ..</tspan></text>
+<text x="24" y="110"><tspan fill="url(#g)">      .*****/(#&amp;&amp;@@&amp;#(//%@@@&amp;&amp;@@*(@@@&amp;&amp;&amp;&amp;/,*/@@@(</tspan></text>
+<text x="24" y="128"><tspan fill="url(#g)">    ,*,,,*******/(%&amp;%%%%%%%%%%%%%%@&amp;%@@@&amp;@@@@&amp;@%(</tspan></text>
+<text x="24" y="146"><tspan fill="url(#g)">  ,****************&amp;&amp;%%%%%%%%%%%&amp;%%%&amp;&amp;@@@%%%%%%%%.</tspan></text>
+<text x="24" y="164"><tspan fill="url(#g)"> ,///****/***********%@@@@@@@@%#(((#%&amp;@@&amp;%%%%%%/</tspan></text>
+<text x="24" y="182"><tspan fill="url(#g)"> ,/*//////*************/(#(/////((((((#%@@%&amp;&amp;%*</tspan></text>
+<text x="24" y="200"><tspan fill="url(#g)">  ,///((///*************///****/((///(/////.</tspan></text>
+<text x="24" y="218"><tspan fill="url(#g)">    ,/(((///***********/////***///////(((/*               </tspan><tspan class="u">skuth</tspan>@<tspan class="u">github</tspan></text>
+<text x="24" y="236"><tspan fill="url(#g)">       ////**********//////**//////////////,              </tspan><tspan class="d">------------</tspan></text>
+<text x="24" y="254"><tspan fill="url(#g)">         *//(****/////////*//////////////////             </tspan><tspan class="k">Name:</tspan>        Flávio Gomes</text>
+<text x="24" y="272"><tspan fill="url(#g)">          ,**///((((///****///////////////////*.          </tspan><tspan class="k">Role:</tspan>        CEO @ Avos (useavos.app)</text>
+<text x="24" y="290"><tspan fill="url(#g)">            .///////((//*********,,,,,*********///*.      </tspan>             CTO &amp; Co-Founder @ Burh (burh.com.br)</text>
+<text x="24" y="308"><tspan fill="url(#g)">               */////((##((###((((((((((((/(/////////,    </tspan><tspan class="k">Title:</tspan>       Senior Software Engineer</text>
+<text x="24" y="326"><tspan fill="url(#g)">                 *////(((######(//(((((((((((((((((/.     </tspan><tspan class="k">Experience:</tspan>  10+ years</text>
+<text x="24" y="344"><tspan fill="url(#g)">                  *///((#####(                            </tspan><tspan class="k">Location:</tspan>    Sorocaba, SP — Brazil</text>
+<text x="24" y="362"><tspan fill="url(#g)">      ,*,          ****/((##(                             </tspan><tspan class="k">Languages:</tspan>   TypeScript, JavaScript, PHP, C#, Go, Rust, Python, SQL</text>
+<text x="24" y="380"><tspan fill="url(#g)">     ,*//           ***//((((.                            </tspan><tspan class="k">Front-end:</tspan>   React, Next.js, Vue, Nuxt, Tailwind</text>
+<text x="24" y="398"><tspan fill="url(#g)">    **///           ./**//(((,                            </tspan><tspan class="k">Mobile:</tspan>      React Native, Expo</text>
+<text x="24" y="416"><tspan fill="url(#g)">  ,**/((*            *****/((/                            </tspan><tspan class="k">Back-end:</tspan>    Node.js, NestJS, AdonisJS, Laravel, .NET, Go</text>
+<text x="24" y="434"><tspan fill="url(#g)"> ****////           ,/*****/((,                           </tspan><tspan class="k">Data:</tspan>        PostgreSQL, MySQL, MongoDB, Redis, Typesense</text>
+<text x="24" y="452"><tspan fill="url(#g)">***//#%#(( .*/*    .///****//((,                          </tspan><tspan class="k">Messaging:</tspan>   BullMQ, SignalR</text>
+<text x="24" y="470"><tspan fill="url(#g)">////////((##((####%&amp;#///****///(*                         </tspan><tspan class="k">Infra:</tspan>       Kubernetes, Terraform, Helm, Docker</text>
+<text x="24" y="488"><tspan fill="url(#g)">*//////(#######(/%%#((//****////(/                        </tspan><tspan class="k">Observ.:</tspan>     Grafana, Loki, Prometheus, OpenTelemetry</text>
+<text x="24" y="506"><tspan fill="url(#g)">   .     .****/(###(((///****/////(((                     </tspan><tspan class="k">AI:</tspan>          Generative AI, LLMs, MCP</text>
+<text x="24" y="524"><tspan fill="url(#g)">         ,***/(((((((///*****////////(/                   </tspan><tspan class="k">Models:</tspan>      OpenAI, Anthropic, DeepSeek, Gemini</text>
+<text x="24" y="542"><tspan fill="url(#g)">         ***///(((((////*****////*//////                  </tspan><tspan class="k">Workflow:</tspan>    Claude Code</text>
+<text x="24" y="560"><tspan fill="url(#g)">        .***///////////*******////*/////.                 </tspan><tspan class="k">Growth:</tspan>      SEO, GEO</text>
+<text x="24" y="578"><tspan fill="url(#g)">        **********************//////////*                 </tspan><tspan class="k">Impact:</tspan>      2M+ users, ~85% cloud cost cut</text>
+<text x="24" y="596"><tspan fill="url(#g)">        ***********************/////////*                 </tspan><tspan class="k">Spoken:</tspan>      Portuguese, English, Russian (A1)</text>
+<text x="24" y="614"><tspan fill="url(#g)">        ,**********/////////////////////                  </tspan><tspan class="k">Status:</tspan>      open to remote roles</text>
+<text x="24" y="632"><tspan fill="url(#g)">         *//////////////////////////(/</tspan></text>
+<text x="24" y="650"><tspan fill="url(#g)">          /(##((((((((((((((((((((*</tspan></text>
+<text x="24" y="668"><tspan fill="url(#g)">          /(#                %/</tspan></text>
+<text x="24" y="686"><tspan fill="url(#g)">          /(              .,%%*......,,,,,,,,,,,.....</tspan></text>
+<text x="24" y="704"><tspan fill="url(#g)">  .......*/*#,,,,,,,,,,,,,*##%%%%/**************,,,,,..</tspan></text>
+<text x="24" y="722"><tspan fill="url(#g)">  ......,//((((###(/////((###############(//******,,,..</tspan></text>
+<text x="24" y="740"><tspan fill="url(#g)">     ....,/(///////((((((//(#(((((////(((/****,,,,,,..</tspan></text>
+<text x="24" y="758"><tspan fill="url(#g)">          ***********/(/,,.........,,.............</tspan></text>
+</svg>
